@@ -121,7 +121,7 @@ body {
 
 @media screen and (max-width: 768px) {
     .containerCard {
-        width: 350px;
+        width: 330px;
         height: 450px;
     }
 
